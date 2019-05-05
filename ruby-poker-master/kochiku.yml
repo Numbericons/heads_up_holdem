@@ -1,0 +1,7 @@
+test_command: 'gem install bundler --conservative && bundle install && bundle exec rake'
+
+ruby:
+ - 2.3.0
+
+targets:
+  - type: unit

@@ -1,0 +1,5 @@
+/coverage/
+/pkg/
+/rdoc/
+/Gemfile.lock
+/test/support/fixtures/poker-hand-testing.data

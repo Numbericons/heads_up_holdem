@@ -1,4 +1,4 @@
-e1.1 before change to player actions returning array of amount and action performed
+1.1 before change to player actions returning array of amount and action performed
 
 1.2.0 changes have been made to incorporate 'ruby-poker' bugs being worked out. Card class changed to MyCard to avoid conflicts
 
