@@ -1,6 +1,7 @@
 # heads_up_holdem
 Basic Usage:
 'ruby holdem.rb'
+
 Will initialize the 2 players with chipstacks a new instance of the Board class to allow a single 'hand' of poker to be played.
 Play should continue until one of the players chipstack reaches 0.
 
